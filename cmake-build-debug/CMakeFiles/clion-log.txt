@@ -1,0 +1,4 @@
+/home/serg/Downloads/clion-2019.1.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/serg/dev/sample/ftpstorageplugin/src
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/serg/dev/sample/ftpstorageplugin/src/cmake-build-debug

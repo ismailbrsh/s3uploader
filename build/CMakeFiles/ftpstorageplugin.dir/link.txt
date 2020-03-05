@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libftpstorageplugin.so -o libftpstorageplugin.so CMakeFiles/ftpstorageplugin.dir/impl/ftplib.cpp.o CMakeFiles/ftpstorageplugin.dir/ftp_library.cpp.o 

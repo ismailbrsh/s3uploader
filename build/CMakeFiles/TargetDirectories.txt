@@ -1,0 +1,3 @@
+/home/serg/dev/sample/ftpstorageplugin/src/build/CMakeFiles/edit_cache.dir
+/home/serg/dev/sample/ftpstorageplugin/src/build/CMakeFiles/rebuild_cache.dir
+/home/serg/dev/sample/ftpstorageplugin/src/build/CMakeFiles/ftpstorageplugin.dir

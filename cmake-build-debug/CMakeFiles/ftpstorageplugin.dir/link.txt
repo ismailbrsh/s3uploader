@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libftpstorageplugin.so -o libftpstorageplugin.so CMakeFiles/ftpstorageplugin.dir/s3_library.cpp.o 

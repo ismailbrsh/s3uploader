@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libs3storageplugin.so -o libs3storageplugin.so CMakeFiles/s3storageplugin.dir/s3_library.cpp.o -ls3 

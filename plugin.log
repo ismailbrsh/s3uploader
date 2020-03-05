@@ -1,0 +1,12 @@
+create plugin
+1:wqcreateStorage,s3://OB03KJNSIPV67D1HI25R:1qiah6rJkPEqscx8DN0Vx2JalML2D5bwTQMF9XdQ@s3bc.btg.co.nz/bucket2
+createStorage,s3://OB03KJNSIPV67D1HI25R:1qiah6rJkPEqscx8DN0Vx2JalML2D5bwTQMF9XdQ@s3bc.btg.co.nz/bucket2
+create iodevice,s3://OB03KJNSIPV67D1HI25R:1qiah6rJkPEqscx8DN0Vx2JalML2D5bwTQMF9XdQ@s3bc.btg.co.nz/bucket2
+25,66,81
+==OB03KJNSIPV67D1HI25R,1qiah6rJkPEqscx8DN0Vx2JalML2D5bwTQMF9XdQ,s3bc.btg.co.nz,bucket2
+C11111
+22222222
+Initialize S3:OK
+OB03KJNSIPV67D1HI25R, 1qiah6rJkPEqscx8DN0Vx2JalML2D5bwTQMF9XdQ, s3bc.btg.co.nz
+bucket found:bucket2Bucket exists
+Check if file exists:/bucket2/d576c3d1-c41e-c1cf-a156-cd057af0b0ea_db_ref.guid, d576c3d1-c41e-c1cf-a156-cd057af0b0ea_db_ref.guiditerator:OB03KJNSIPV67D1HI25R,1qiah6rJkPEqscx8DN0Vx2JalML2D5bwTQMF9XdQ,s3bc.btg.co.nz,bucket2
